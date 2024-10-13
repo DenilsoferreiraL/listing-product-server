@@ -56,7 +56,7 @@ npm install
 Por fim, inicie o servidor com o comando:
 
 ```bash
-node server.js
+npm start
 ```
 Após isso, você pode acessar a API em http://localhost:3000.
 
