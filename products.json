@@ -1,0 +1,60 @@
+[
+  { 
+    "id": 1, 
+    "name": "Baguette", 
+    "price": 17.99,
+    "highlighted": true, 
+    "image": "https://img.freepik.com/fotos-gratis/delicioso-sanduiche-com-alface_144627-33579.jpg?t=st=1728690249~exp=1728693849~hmac=dca2ed2e496a9a1746bde383e704bce93f2698a3df5231d1893831394d6390b4&w=1380",
+    "ingredients": ["Pão de baguete", "Alface", "Tomate", "Maionese"]
+  },
+  { 
+    "id": 2, 
+    "name": "X-Carne", 
+    "price": 14.55,
+    "highlighted": false, 
+    "image": "https://img.freepik.com/fotos-gratis/doner-de-vista-lateral-com-tomate-e-batatas-fritas-e-ayran-em-panelas_176474-3066.jpg?t=st=1728690469~exp=1728694069~hmac=d07febe9abde19836a3d514822186999c50074a22c51cb03ecbcdca697fb3e7b&w=826",
+    "ingredients": ["Pão", "Carne", "Queijo", "Cebola", "Maionese"]
+  },
+  { 
+    "id": 3, 
+    "name": "X-Frango", 
+    "price": 13.89,
+    "highlighted": true, 
+    "image": "https://img.freepik.com/fotos-gratis/grilled-closeup-de-sanduiche-de-galinha_1147-505.jpg?t=st=1728690527~exp=1728694127~hmac=0db069f4b6692978ebd75bfb9366e6aaf315e57119c5835b7d06bce0e264157c&w=1380",
+    "ingredients": ["Pão", "Frango grelhado", "Queijo", "Alface", "Maionese"]
+  },
+  { 
+    "id": 4, 
+    "name": "X-Vegetariano", 
+    "price": 10.99,
+    "highlighted": false, 
+    "image": "https://img.freepik.com/fotos-gratis/sanduiche-com-pepino-na-mesa_23-2148590177.jpg?t=st=1728690571~exp=1728694171~hmac=e85fc0fa04466543ba0007200470cb124d222b547470d671ca08eda0d43689d9&w=1380",
+    "ingredients": ["Pão", "Pepino", "Tomate", "Alface", "Molho de iogurte"]
+  },
+  { 
+    "id": 5, 
+    "name": "Refrigerante", 
+    "price": 19.99,
+    "highlighted": true, 
+    "image": "https://img.freepik.com/fotos-gratis/vidro-de-cola-de-gelo_1339-6222.jpg?t=st=1728690687~exp=1728694287~hmac=f4b7525cff1c2a3ebdcc3e80b86abb47886444bf60b8c41e609c4f366206e95e&w=826",
+    "ingredients": ["Limão","Gelo"]
+  },
+  { 
+    "id": 6, 
+    "name": "Batata-Frita", 
+    "price": 8.50,
+    "highlighted": false, 
+    "image": "https://img.freepik.com/fotos-gratis/batatas-fritas-crocantes-com-ketchup-e-maionese_1150-26588.jpg?t=st=1728690759~exp=1728694359~hmac=2809218eda5254b46d1a03d50bc3b5ff98ccc032f53e672f642905536b0412da&w=1380",
+    "ingredients": ["Maionese", "Molho de iogurte","Molho da casa"]
+  },
+  { 
+    "id": 7, 
+    "name": "Pizza-Mista", 
+    "price": 22.99,
+    "highlighted": true, 
+    "image": "https://img.freepik.com/fotos-gratis/pizza-de-ingredientes-misturados-em-uma-placa-de-madeira_114579-9317.jpg?t=st=1728690832~exp=1728694432~hmac=029ac580e28c195aad4963699758069bbfaaa680b7e1de0e55c20f94408db2f3&w=1380",
+    "ingredients": ["Massa de pizza", "Molho de tomate", "Queijo", "Presunto", "Oliva"]
+  }
+]
+
+  
