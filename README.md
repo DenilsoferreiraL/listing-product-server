@@ -33,8 +33,14 @@ Bem-vindo à API de Gestão de Produtos! Este projeto é uma simples API desenvo
 Para começar a usar esta API, siga as instruções abaixo:
 
    **Clone o repositório:**
+  
+  No prompt de comando, cole o seguinte comando e pressione a tecla enter para clonar o repositório 
    ```bash
    git clone https://github.com/DenilsoferreiraL/listing-product-server.git
+   ```
+   Após concluir a clonagem do repositório, cole o comando abaixo e pressione a tecla enter para adentrar na pasta do projeto clonado:
+   ```bash
+   cd listing-product-server
    ```
 
 ## Instale as Dependências
